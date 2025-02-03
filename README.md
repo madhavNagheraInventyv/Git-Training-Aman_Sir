@@ -1,16 +1,16 @@
-#### 🚀 Git & GitHub Basics
+### 🚀 Git & GitHub Basics
 
 * Git is a distributed version control system used by developers to track changes in code. It allows multiple developers to work on a project simultaneously, maintain different versions of the code, and manage updates to the codebase efficiently. With Git, developers can create branches to experiment with new features or fixes, merge changes, and maintain a complete history of changes made to the project.
 
 * GitHub is a web-based platform that provides hosting for Git repositories. It facilitates collaboration between developers by offering features like version control, pull requests, issue tracking, and code reviews. GitHub enables developers to share their code publicly or privately, contribute to open-source projects, and manage software development processes through its integrated tools for collaboration and project management.
 ---
-#### 📌 Prerequisites
+### 📌 Prerequisites
 - Install [Git](https://git-scm.com/)
 - Create a [GitHub](https://github.com/) account
 
 ---
 
-#### 🛠️ Git Configuration
+### 🛠️ Git Configuration
 
 Set up your user information:
 ```sh
