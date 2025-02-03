@@ -103,11 +103,10 @@ git diff        # to see the difference in your file
 * <span style="color:yellow">The Network Graph on GitHub visually represents the branching history and relationships between different forks of a repository. It helps developers track contributions, understand collaboration patterns, and see how various branches evolve over time.
 </span>
 ---
+
 ### Creating a pull request
 * <span style="color:yellow">To create a Pull Request (PR) on GitHub, push your changes to a branch and navigate to the repository. Click "New pull request", compare changes, add a description, and submit for review. 
 ![alt text](image-2.png)</span>
-
-----
 
 ### Adding a description to create pull request
 * <span style="color:yellow">When creating a Pull Request, add a clear and concise description explaining the changes, purpose, and any relevant context. This helps reviewers understand and approve your PR efficiently.
